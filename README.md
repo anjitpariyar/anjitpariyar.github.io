@@ -1,2 +1,2 @@
-# anjitpariyar.github.io
-comming soon
+Visit portfolio [anjitpariyar.vercel.app](https://anjitpariyar.vercel.app).
+
